@@ -1,4 +1,4 @@
-from modelos import Peliculas, Genero, Catalogo
+from modelos import Peliculas, Catalogo
 from sql import agregar_pelicula_sql, obtener_peliculas_sql
 from time import sleep
 
