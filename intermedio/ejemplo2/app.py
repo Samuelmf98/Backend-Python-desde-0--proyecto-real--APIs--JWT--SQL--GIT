@@ -7,7 +7,7 @@ from funciones import agregar_pelicula, obtener_peliculas
 
 
 load_dotenv()
-database = os.environ[  "DATABASE_PELICULAS"]
+database = os.environ["DATABASE_PELICULAS"]
 
 #Creamos la tabla peliculas
 crear_tabla_si_no_existe()
