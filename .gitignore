@@ -1,5 +1,10 @@
-ejemplo1/__pycache__
-ejemplo1/basepruebacurso.db
+intermedio/ejemplo1/__pycache__
+intermedio/ejemplo1/basepruebacurso.db
 
-ejemplo2/__pycache__
-ejemplo2/peliculas.db
+intermedio/ejemplo2/__pycache__
+intermedio/ejemplo2/peliculas.db
+
+avanzado/requirements.txt
+
+avanzado_bdd/usuarios.db
+avanzado_bdd/__pycache__
